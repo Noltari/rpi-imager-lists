@@ -1,0 +1,70 @@
+{
+  "os_list": [
+    {
+      "name": "OpenWrt 23.05 (bcm2708)",
+      "description": "OpenWrt is an open-source project for embedded devices to route network traffic.",
+      "url": "https://downloads.openwrt.org/releases/23.05.3/targets/bcm27xx/bcm2708/openwrt-23.05.3-bcm27xx-bcm2708-rpi-ext4-factory.img.gz",
+      "icon": "https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg",
+      "website": "https://openwrt.org/",
+      "release_date": "2024-03-22",
+      "extract_size": 184549376,
+      "extract_sha256": "c9df590500517223e28f670abca2bd5eee9d9a6be3bc684044f6aae9d5ac0db3",
+      "image_download_size": 15242765,
+      "image_download_sha256": "965a28150b7aa600dfedcc7ef81725ab2890a1a29e619edfc3ff8e50edc359ea",
+      "devices": [
+        "pi-32bit"
+      ],
+      "init_format": "systemd"
+    },
+    {
+      "name": "OpenWrt 23.05 (bcm2709)",
+      "description": "OpenWrt is an open-source project for embedded devices to route network traffic.",
+      "url": "https://downloads.openwrt.org/releases/23.05.3/targets/bcm27xx/bcm2709/openwrt-23.05.3-bcm27xx-bcm2709-rpi-2-ext4-factory.img.gz",
+      "icon": "https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg",
+      "website": "https://openwrt.org/",
+      "release_date": "2024-03-22",
+      "extract_size": 184549376,
+      "extract_sha256": "4a37db53ca4b198717dcd760368ee6df8f4ee9ed3a06dd2d563dc0e454b75349",
+      "image_download_size": 19813601,
+      "image_download_sha256": "a0a5b127dff3dac6a6085b0ac52bdf64fa296aeb7b92c48f9f896f1fb441f755",
+      "devices": [
+        "pi4-32bit",
+        "pi3-32bit",
+        "pi2-32bit"
+      ],
+      "init_format": "systemd"
+    },
+    {
+      "name": "OpenWrt 23.05 (bcm2710)",
+      "description": "OpenWrt is an open-source project for embedded devices to route network traffic.",
+      "url": "https://downloads.openwrt.org/releases/23.05.3/targets/bcm27xx/bcm2710/openwrt-23.05.3-bcm27xx-bcm2710-rpi-3-ext4-factory.img.gz",
+      "icon": "https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg",
+      "website": "https://openwrt.org/",
+      "release_date": "2024-03-22",
+      "extract_size": 184549376,
+      "extract_sha256": "ce16798862fec058e5107ca92850b28fe9ee33537d471fec60977e2685914398",
+      "image_download_size": 16326614,
+      "image_download_sha256": "da176b4ec6657a53ffc9555aeaacc65d15927b3ca68c5dc72608181d80deff0b",
+      "devices": [
+        "pi3-32bit"
+      ],
+      "init_format": "systemd"
+    },
+    {
+      "name": "OpenWrt 23.05 (bcm2711)",
+      "description": "OpenWrt is an open-source project for embedded devices to route network traffic.",
+      "url": "https://downloads.openwrt.org/releases/23.05.3/targets/bcm27xx/bcm2711/openwrt-23.05.3-bcm27xx-bcm2711-rpi-4-ext4-factory.img.gz",
+      "icon": "https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_blue_and_dark_blue.svg",
+      "website": "https://openwrt.org/",
+      "release_date": "2024-03-22",
+      "extract_size": 184549376,
+      "extract_sha256": "feb5d01f42fc9e4bdb8f96435a3e108c8b9e9d4d82e831ed35e862ca98b8b8ea",
+      "image_download_size": 15398361,
+      "image_download_sha256": "0969b42dcc00750ff17642ec791721b7a936dadb912ab6c21a9b019d7c00d2aa",
+      "devices": [
+        "pi4-32bit"
+      ],
+      "init_format": "systemd"
+    }
+  ]
+}
